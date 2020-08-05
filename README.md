@@ -1,2 +1,2 @@
-# cheatkey
+# Cheatkey
 Less headaches with keybinds (hopefully)
